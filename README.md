@@ -25,7 +25,7 @@ Contact
 Clone this repo and install Node.js (v14+ recommended).
 
 Bash
-git clone https://github.com/markjyadavoffical/js-Deep-dive.git
+git clone https://github.com/markjyadavoffical/js-Deep_dive.git
 cd js-deep-dive
 npm install  # If there are any dependencies
 No specific setup required – just open examples in your browser to run them!
